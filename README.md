@@ -4,6 +4,8 @@
 
 This is a prototype coded in Perl to analyze how classification data is used in K10plus library catalogue.
 
+**see <https://github.com/gbv/subjects-api> for successor.**
+
 ## Installation
 
 Clone from GitHub:
